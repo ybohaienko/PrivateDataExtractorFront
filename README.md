@@ -1,4 +1,4 @@
-# Private Data Extractor Backend Application
+# Private Data Extractor Frontend Application
 
 ### Prerequisites
 * **node >= v15.3.0**;
